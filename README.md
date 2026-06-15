@@ -2,6 +2,8 @@
 
 A cardboard robot toy box on an ESP32 that reacts emotionally to temperature.
 Built at UBISS 2026 (Robot Makers workshop).
+<img width="547" height="278" alt="image" src="https://github.com/user-attachments/assets/4697814f-5088-40f0-9c87-0d2cca843d4e" />
+
 
 ## What it does
 The box "throws a tantrum" based on what it senses. A caregiver scans an RFID
